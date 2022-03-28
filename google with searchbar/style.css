@@ -1,0 +1,37 @@
+
+.logo img {
+width: 300px;
+padding-top: 185px;
+padding-left: 525px;
+}
+
+.logo input {
+ border-radius: 100px;
+width: 370px;
+font-size: large;
+font-family: sans-serif;
+font-style: normal;
+font-weight: lighter;
+height: 42px;
+padding-left: 10px;
+margin-left: 1px;
+margin-top: 28px;
+border-color: grey;
+margin: 10px 5px 0px 10px;
+background-color:white;
+}
+
+.logo button {
+    border-radius: 100px;
+    width: 88px;
+    font-size: large;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    height: 42px;
+    background-color:white;
+    margin-left: 1px;
+    margin-top: 28px;
+    border-color: grey;
+margin: 10px 5px 0px 10px;
+}
